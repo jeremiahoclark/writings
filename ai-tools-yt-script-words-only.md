@@ -1,321 +1,154 @@
-**Promise**: "What if you could work 10x smarter, create faster, and never feel left behind in the constant stream of AI news?
+Opening Promise (0:00-0:30)
+AI in 2025 isn’t just hype, it’s your superpower. That's why I'll show you three AI tools that cut through the confusion and deliver real, game chaning results. 
+{montage through the tools}
 
-[Dramatic pause]
+These aren't just any tools I look up online; they're the ones that have personally use everyday to improve how I live.
 
-"Have you ever felt like you're running a marathon with ankle weights, while others sprint effortlessly ahead? Today, I'm going to show you the 11 AI tools that transformed my career from stuck to unstoppable."
+Dramatic Pause
 
-[EMOTIONAL HOOK]
-I've always struggled with feeling not good enough. Picture this scene from Kingsman [Brief clip reference] - that's how I felt, constantly pushing against walls, hoping for a breakthrough.
+Let me be straight with you: I've always felt like I wasn't quite measuring up. You know that feeling when you're in a competitive game, and no matter how hard you try, you can't seem to catch up? Or that the people around you have some edge that you don't. 
 
-But everything changed when I leaned into AI tools. I realized something powerful: With AI, anyone could achieve greatness.
+{{kingsmen scene}}
 
-That's why I'm making this video and every video to come. Let's get started.
+Yeah, that feeling. 
 
-In this video, we'll dive into the exact tools I use daily, split into two main categories:
-1. Knowledge Tools - For learning and information processing
-2. Development Tools - For creating and building
+That was my daily. I'd push myself to the limit but never quite being where I wanted. 
 
-While you may not be a developer, take the principles you learn here and apply them to your own work.
+I'm Jay. I've worked in big tech, VC, and have built AI apps. For the last four years I've searched and used over 100 AI tools. Today, I've boiled it down to these three AI tools. Forget the jargon and complexity; we're focusing on what really matters: results. 
 
-### Tool #1: OpenAI O1 - The Architect (2:00-2:45)
-**Promise**: "What if you could transform your scattered career goals into a laser-focused, actionable blueprint that guarantees progress in just 3 minutes?"
+Introduction to the Tools (1:00-1:30)
 
-[B-ROLL: Screen of complex planning suddenly simplified]
+These tools:
+- Get you reliable information you need, fast.
+- Connect your mind to the digtal world 6x faster.
+- Transform your digital work to fun and productive hobbies.
 
-**Journey**:
-"I'm a hardcore generalist. I train Muay Thai, dance ballroom, rode a motorcycle, enjoy anime, love language learning and reading about founders. But, that also means I was often drown myself in unfocused goals. I have a lot of ideas and there are a lot of ways to appraoch them."
+Let's get started.
 
-Enter 01. 
+Tool #1: Perplexity: The Search Revolution  (2:30-3:30)
 
-[Prompt Template Overlay]
-'Please design a system that allows me to [your goal] in [your time constraint].'
-// update this with the actual prompt template for o1
-[Show prompt template on screen with animated text]
+Promise
+Over the last couple of years it feels like the information on Google has downgraded. A lot. If I do find something helpful from Google more often it is because it routed me to Reddit.
 
-[Demonstration of goal-setting process]
-- Input personal context
-- Analyze constraints
-- Generate tailored strategy
+But, then Google introduced AI summarizes. So, I thought: ah, what a relief. Google is going to keep doing their information thing. 
 
+But, then I realized the outputs were more wrong than vanilla ChatGPT!
 
-**Reward**:
-[Split screen: Messy goals vs Crisp O1 Strategy]
-"Result? I'm more focused and have zero wasted effort. By breaking down my scattered goals into precise, actionable steps, O1 helped me transform my generalist tendencies into a strategic roadmap. Now, instead of feeling overwhelmed by multiple interests, I can systematically pursue my most impactful objectives with clarity and confidence that it aligns with my purpose."
+So, I decided to try Perplexity.
 
-Think: anytime I need to think deeply about something, let's use 01 as a second opinion.
+With Perplexity, and specifically their new Deep Research the internet has finally been made intelligent.
 
-Recently, I've been also testing out a new model called R1. It is a competive model with 01 at 1/20th the cost. I've been using it for the week and I've found that slowly replacing a lot of use cases that'd I'd normally use 01 for with R1. Still, I've found that 01 is the better model between the two.
+Journey
 
-### Tool #2: Claude - The Creative (2:45-3:30)
-**Promise**: "Imagine turning ideas into working code before at the snap of a finger *snap*"
+I was skeptical—Google's the search king, right? But Perplexity changed my mind. The biggest issue with LLMs are their ability to hallucinate. They'll literally just make up convicing sounding slop when you least expect it. 
 
-**Journey**:
-"I used to spend weeks designing and building features, often with a team. Now, watch how Claude turns a simple concept into a fully realized product."
+With perplexity - it sites its sources. 
 
-**Reward**:
-"Due to its artifacts (ability to preview the output), and its creativity, I've cut my design time by 90%. And, I've been able to iterate through multiple design versions to improve my own taste."
+For really fast questions that I want a quick answer to I just quickly type in my question and get the answer.
 
-### Tool #3: Perplexity - The Search Revolution (3:30-4:15)
-**Promise**: "What if Google became obsolete, and you had an AI assistant that finds EXACTLY what you need?"
+Magic.
 
-**Journey**:
-"I was skeptical. Could anything really replace Google?"
+About two weeks ago, Perplexity released a new tool: Deep Research. This is for bigger questions like: 
+- What is the meaning of life?
+- How do I build a business from the ground up?
+- How can I self-teach myself physics. 
 
-[Demonstration of multiple search scenarios]
-- Creator content research; what if I asked it about topics I'm interested in?
-- Political information gathering; what if I asked it about tell me it's perspective on the latest news around the President??
+Deep Research spends a lot of time researching and and compiling the information it finds. It can cover 30+ real sources, and seamlessly generate a comprehensive report. And, this of knowledge is free.
 
-Bonus: For Andriod users, Perplexity just released an agent update that works like a better Siri or Google Assistant. I've been using for the last few days and I'm completely blown away. Let me know if you'd like me to do a deep dive on it in the comments. 
+Whether it's for a school paper or staying informed on the latest tech trends, 
 
-**Reward**:
-"I now get deeper insights in 1/4 the time, with sources I can trust."
+Perplexity is my go-to. It's especially useful when you need to cut through the AI-generated slop.
 
-Perplexity Hack: Combine specific context with your query for laser-focused results.
+Transition
+With the right knowledge, you can build anything. But every craftman still needs their tools. The next tool can be help you speedrun all of your work. Let's see how.
 
-### Tool #4: Gemini Live - The Language Partner (4:15-5:00)
-**Promise**: "Imagine having a 24/7 language tutor that adapts to YOUR learning style - for free"
+Tool #2: Superwhisper (3:30-4:30)
 
-**Journey**:
-"Traditional language learning felt like torture. Textbooks, boring apps, zero progress."
+Promise
+Superwhipser - become 6 times faster online.
 
-[Show frustration of language learning]
-- Screen sharing capabilities; I've been using to play videos games in Japanese
-- Natural conversations; I've been using to practice Spanish 
+Journey
 
-**Reward**:
-[Montage of language progress]
-"I've practiced Japanese, Spanish, and explored languages I never thought possible."
+In gaming, voice chat is a game-changer—quick communication, real-time strategy. It’s the difference between winning and losing. So, when I saw SuperWhipser I immediately recognized how much of a winning tool it was. 
 
-[TRANSITION TO NEXT SECTION]
-But what if you need more than just conversation practice? What if you want to level up your reading skills in a new language? That's exactly why I created our next tool..."
+Before we dive in, let's explore this problem that most people don't realize is a problem. Typing. 
 
-### Tool #5: LumiReader.ai - Breaking Through Language Barriers (5:00-5:45)
+The average person types at 40 words per minute, but the average person speaks at 250 words per minute. 
 
-"Let me share something I'm particularly proud of - LumiReader.ai. I created this tool because I experienced a common problem in language learning firsthand.
+The average office worker types 3,500 words per day. So, roughlly let's imagine I spend 87.5 minutes a day just typing. Sure.
 
-When I was learning Chinese, I hit what's called 'intermediate hell'. I could read children's books, but I wanted to read about topics I actually cared about, like founder biographies.
+But, what if I could type as fast as I spoke? 
 
-Here's how LumiReader transforms language learning:
-- It personalizes any content to your reading level
-- Provides extensive listening practice
-- Helps discover stories you'll actually enjoy
+If I spoke everything instead then I would be just 14 minutes per day. {on screen calculations} 
 
-Watch this - I can take any text and instantly adjust it to my level while maintaining the core message.
+ That would save 33 minutes a day or...
+ 
+{drumroll}
 
-[PERSONAL RESULTS]
-I've used this for to read Shogun by James Clavell, in Japanese. Which is a unique experience because it's about a guy learning about Japan and Japanese from a western perspective. While I'm reading it, from a western perspective, I'm also learning about Japan and Japanese. Very. Cool. 
+  192.5 hours per year. 
 
-[TRANSITION TO DEVELOPMENT TOOLS]
-"We've covered how to learn and grow. Now, let's talk about how to BUILD."
+{WOW voice}
 
-**Promise**: "What I told you coding has become almost as easy as having a conversation with a genius developer?"
+ With Superwhisper, I breeze through my tasks at literal superhuman typing speeds. 
+ 
+ It's like being used to driving to Disney, but then one year fly instead.
 
-**Journey**:
-"I used to spend nights debugging, drowning in lines of code. Programming felt like solving a Rubik's cube in the dark."
+So now, I'm able to write more quickly and naturally. Talk to I talk to my computer and watch my code appear. 
 
-**Reward**:
-"Now, I build in hours what used to take weeks. And the best part? I actually enjoy coding. Genuinely. I find it the most fun way to spend my time. Let me show you how."
+But, I will warn there is a bit of a goofy lean that I find myself doing - especially if I'm in public and literally trying to whisper to the tool. So, if you're on the free tier the accuracy can lead to unexpected spelling errors. 
 
-### Tool #6: V0 - From Idea to App in Minutes (6:15-7:00)
-**Promise**: "What would do if you could turn your imagination into a working app in minutes?"
+Transition
+Speed is just one part of the equation. When it comes to building and creating, you need tools that make complex tasks feel fun. Let's see how the next tool can turn your work into a feeling like a hobby.
 
-**Journey**:
-"Design used to be my biggest bottleneck. Figma felt like learning a new language, and hiring designers was expensive."
 
-[Screen recording of V0 interface]
-- Type simple description
-- Watch design materialize
-- Iterate in real-time
+Tool #3: AI Coding and Writing Assistant (Cursor) (4:30-5:30)
+Promise
+Welcome to coding you'll actually love. And, even if you're not a coder stay with me. You almost certainly have to write things. I'll show you how to use Cursor to super-charge your writing. 
 
-**Reward**:
-[Split screen: Initial concept vs Final Design]
-"I've created landing pages for three startups in under an hour. Zero design skills required."
+Journey
+Coding was something I knew was important. Loved being close to. But dreaded actually doing—endless debugging, cryptic errors, constant frustration sucked.
 
-[Pro Tip Overlay]
-Deployment Hack: Start with local Next.js, then deploy to Vercel for maximum flexibility.
+But, Cursor came along. 
 
-### Tool #7: Cursor - The Coding Second Brain (7:00-7:45)
-**Promise**: "What if your code wrote itself, and debugging became a thing of the past?"
+There are a lot of video explaining how to best use Cursor for coding, so I won't go too deep into it now. 
 
-**Journey**:
-"Debugging used to be my nightmare. Hours lost to tiny errors, feeling like I was solving an impossible puzzle."
+But, what I will say it that the Cursor team developed a product that makes building software so fun it has legitimately become my favorite way to spend free time. 
 
-[Demonstration of Cursor's capabilities]
-Cusor has:
-- Context-aware completion
-- Intelligent refactoring
-- Automated documentation
-- AI-powered debugging
-- Automatic app building
+So, if you want to build something or make money online I strongly recommend you at least try it. 
 
-Essentially, Cursor is crompletely cracked. It's the best way to build software.
+But, what if you have no interest in coding? 
 
-**Reward**:
-[Performance metrics graphic]
-"I've cut my development time by 90%. Coding went from a chore to my favorite way to spend my time."
+Let me introduce you to another use-case I don't see NEARLY enough people talking about. Cursor for... writing.
 
-[Technical Insight]
-Cursor Agent Pro Tip: Treat it like a pair programmer. Challenge its suggestions, learn from its approach.
+Writing has a lot of the same painpoints that coding does but it is more widely used. For example: 
+- You have to write a script when making a YouTube video
+- You have to writes tons of emails in the work place
+- You have to write notes as a student
 
-**Promise**: "What if you could build a full-stack application as easily as ordering takeout?"
+After using SuperWhisper to write 6x faster, you can use Cursor to edit your writing 10X times faster. 
 
-**Journey**:
-"I used to spend weeks planning architecture, days writing boilerplate. Now, watch the magic happen."
+{show and example of using cursor to a blog post }
 
-[Demonstration of full-stack generation]
-- Input project concept
-- Watch architecture emerge
-- Refine through conversation
-- Generate complete codebase
+Reward
+Now, with Cursor I can take work that we have to do and turn them into work I want to do. It's fun, and I'm more productive than ever. Use it to bring your software or written ideas to life.
 
-**Reward**:
-"I built a complex web scraper in 15 minutes. What used to take weeks now takes minutes."
+The Big Picture (5:30-7:00)
+]
+Now, you might be wondering—why does all this matter? Let me share what I've learned from using AI tools non-stop for years.
 
-Agentic Framework Bonus: Each tool you create becomes smarter, building an ecosystem of intelligence.
+Each of these tools is like a key that unlocks new doors—doors to new ideas, creations, and ways of connecting with the world. Learning and using these AI tools is like removing weights from your legs; suddenly, you're not just keeping up, you're sprinting ahead.
 
-### Tool #9: X.ai Flux - Photorealistic Vision (8:30-9:15)
-**Promise**: "What if you could generate professional-grade images with just a sentence?"
+We've only scratched the surface today. There's a whole universe of AI tools out there, each with the potential to amplify your abilities. And, as models become better exisiting tools are becoming better. The key isn't to become an AI expert overnight; it's to start, to take that first step.
 
-**Journey**:
-"Stock photos kill my sense of awe. Custom designs were expensive and time-consuming."
+Honestly, I was intimidated at first. AI felt like something from the future, something complicated. But I realized that the future is here, and it's surprisingly accessible. And with all the hype, it's easy to be skeptical—but these tools have proven reliable, helping me and others achieve more. Occaisonally when the hype wave feels too much I like to take a step back and remind myself the biggest regret I could have is watching the future unfold from the sidelines.
 
-[Demonstration of image generation]
-- Type detailed prompt
-- Watch photorealistic image emerge
-- Refine with additional context
+For me these tools aren't about replacing humans; it's about amplifying them. It's about unlocking potential I never knew I had. It's about building a future where everyone can create, contribute, and thrive.
 
-**Reward**:
-[Montage of generated client presentations]
-"I now create presentation assets that look better than most professional photoshoots."
+If you found a tool or application of the tool that sparks your curiosity, or got value from this video please share the video with a friend. It is the best way to help my new channel grow.
 
-[Pro Tip]
-Style Consistency Hack: Use specific style references in your prompts.
+Closing Sequence (7:00-7:30)
+Thank you for watching. Remember, the journey of a thousand miles starts with a single step. Take that step today, and step into your new superpowers.
 
-### Tool #10: Midjourney - The Artistic Visionary (9:15-10:00)
-**Promise**: "Imagine having a world-class artist available 24/7, ready to bring your wildest ideas to life"
-
-[B-ROLL: Artistic styles morphing and evolving]
-
-**Journey**:
-"I'm not an artist. But with Midjourney, artistic expression became my new superpower."
-
-[Creative demonstration]
-- Start with rough concept
-- Iterate through style variations
-- Maintain consistent visual language
-
-**Reward**:
-[Illustration library showcase]
-"I created LumiReader's entire visual identity in days, not months. Zero design skills required."
-
-[Artistic Insight]
-Style Maintenance Pro Tip: Use consistent prompt structures to maintain your unique visual brand.
-
-[TRANSITION TO FINAL SECTION]
-[Music fades to contemplative tone]
-
-## THE BIG PICTURE (10:00-11:30)
-[B-ROLL: Time-lapse of city sunset]
-
-"Now, you might be wondering - why does all this matter? Let me share what I've learned about the compounding power of AI."
-
-[VISUAL METAPHOR]
-[Animation of flywheel gaining speed with tool icons orbiting]
-Each tool you master becomes a force multiplier. And this is just the beginning - while we've focused on my top 10, there's a whole ecosystem growing with amazing tools like:
-
-[QUICK TEXT OVERLAY]
-• Superhuman for email mastery
-• Lindy.ai for workflow automation
-• Replit Agent for full-stack magic
-• Grok AI for real-time insights
-
-[VOICEOVER]
-"These are just a few of the incredible tools pushing boundaries right now. The key is finding what works for YOU."
-
-[PERSONAL STORY]
-There was a time I almost burned out trying to do everything myself. Now, with AI handling the heavy lifting, I can focus on what truly matters - creating value and connecting with people like you.
-
-[FINAL CALL TO ACTION]
-[Upbeat music returns]
-"So here's my challenge to you: Pick one tool from this video that excites you most. Master it completely. Then come back and tell me what you've built."
-
-[CLOSING SEQUENCE]
-[Montage of tools featured in video]
-"Remember - the future belongs to those who smartly amplify their efforts. Stay curious, keep building, and I'll see you in the next one."
-
-[OUTRO]
-[Channel branding with subscribe prompt]
+Outro
 [End screen with video recommendations]
 
-## THE COMPOUNDING EFFECT (11:30-12:15)
-**Promise**: "What if every tool you learn multiplies your potential exponentially?"
-
-[B-ROLL: Visualization of interconnected tools growing in complexity]
-
-**Journey**:
-"I used to chase individual skills, feeling like I was collecting disconnected puzzle pieces."
-
-[Visual Metaphor]
-- Each tool starts small
-- Connections begin to form
-- Suddenly, a breakthrough emerges
-
-**Reward**:
-[Animated growth chart]
-"Now, each tool I master creates a compounding effect. My productivity isn't just linear - it's exponential."
-
-[Pro Tip Overlay]
-Compounding Hack: Don't just learn tools. Learn how tools can work together.
-
-## LOOKING FORWARD (12:15-13:00)
-**Promise**: "Imagine being ahead of the curve in the AI revolution"
-
-[B-ROLL: Futuristic cityscape with AI interfaces]
-
-**Journey**:
-"The landscape of AI is changing faster than anyone can predict. I've seen tools become obsolete in months."
-
-[Timeline of AI Evolution]
-- 2020: GPT-3 emerges
-- 2022: ChatGPT disrupts everything
-- 2025: Agentic frameworks take over
-
-**Reward**:
-[Montage of successful AI-powered projects]
-"But here's the secret - it's not about having the latest tool. It's about developing an adaptive mindset."
-
-[CRITICAL INSIGHT]
-Two types of people in AI:
-1. Those trying to replace humans
-2. Those looking to amplify human potential
-
-[Dramatic Pause]
-"I'm firmly in the second camp. And I suspect, if you've made it this far, so are you."
-
-## FINAL CALL TO ACTION (13:00-13:30)
-**Promise**: "Your AI-powered transformation starts now"
-
-[B-ROLL: Diverse people using AI tools]
-
-**Journey**:
-"Whether you're a complete beginner or you've been tinkering for years, the next step is the same."
-
-**Reward**:
-[Inspirational overlay]
-"Choose ONE tool from this video. Master it completely. Then show the world what you can build."
-
-[Personal Challenge]
-"I want to see your results. Comment below with the tool you're going to master and your first project."
-
-[CLOSING MONTAGE]
-- Quick cuts of tools in action
-- User success stories
-- Emerging AI technologies
-
-[FINAL LINE]
-"The future isn't something that happens to you. It's something you create. Let's build it together."
-
-[OUTRO]
-[Channel logo]
-[Subscribe button]
-[Recommended video thumbnails]
